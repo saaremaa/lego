@@ -18,7 +18,7 @@ import (
 // Default API endpoints.
 const (
 	APIBaseURL  = "https://console.cloud.ru/api/clouddns/v1"
-	AuthBaseURL = "https://auth.iam.cloud.ru/auth/system/openid/token"
+	AuthBaseURL = "https://iam.api.cloud.ru/api/v1/auth/token"
 )
 
 // Client the Cloud.ru API client.
